@@ -5,8 +5,9 @@ buildscript {
         jcenter()
     }
     dependencies {
-        classpath 'com.android.tools.build:gradle:2.3.0'
-        classpath 'com.novoda:bintray-release:+'
+        classpath 'com.android.tools.build:gradle:2.3.1'
+        //java8
+        classpath 'me.tatarka:gradle-retrolambda:3.6.0'
     }
 }
 

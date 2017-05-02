@@ -1,1 +1,1 @@
-include ':app', ':rxerrorhandler'
+include ':rxerrorhandler', ':demo'
