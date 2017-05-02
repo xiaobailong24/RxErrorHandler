@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("me.xiaobailong24.rxerrorhanlder.test", appContext.getPackageName());
+        assertEquals("me.xiaobailong24.rxerrorhandler.test", appContext.getPackageName());
     }
 }
